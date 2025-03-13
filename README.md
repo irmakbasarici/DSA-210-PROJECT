@@ -1,4 +1,4 @@
-# DSA-210-PROJECT
+
 # Obesity Data Analysis - DSA210 Project
 
 ## Project Overview
@@ -54,7 +54,9 @@ The dataset consists of **2111 records** with the following attributes:
    - Box plots to compare obesity levels
 
 ### 3. Hypothesis Testing
-   - Statistical tests to determine the impact of variables (e.g., Does physical activity significantly reduce obesity risk?)
+   - Statistical tests to determine the impact of variables on obesity.
+   - **Null Hypothesis (H₀):** There is no significant relationship between lifestyle factors (eating habits, physical activity, etc.) and obesity levels.
+   - **Alternative Hypothesis (H₁):** Lifestyle factors (eating habits, physical activity, etc.) have a significant impact on obesity levels.
 
 ### 4. Machine Learning Model
    - Train classification models (Logistic Regression, Decision Tree, Random Forest, etc.)
@@ -72,3 +74,10 @@ By the end of this project, we aim to:
 
 ## Conclusion
 This project will serve as a structured analysis of obesity determinants using real-world data. By leveraging data science techniques, we aim to derive meaningful insights that can help in obesity prevention and management strategies. The findings can be used to promote healthier lifestyles and inform public health decisions.
+
+---
+
+
+
+
+
